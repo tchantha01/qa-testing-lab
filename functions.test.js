@@ -22,7 +22,7 @@ test('Test should run and 2 should equal 2', () => {
   })
 
 
-  describe('Testing lab math', () => {
+  describe('Math functions', () => {
 
     test('Test for addition', () => {
       expect(testingLab.add(1, 2)).toBe(3)
